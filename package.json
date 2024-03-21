@@ -1,0 +1,12 @@
+{
+  "name": "shopify-nextjs-prisma-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "shopify app deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
